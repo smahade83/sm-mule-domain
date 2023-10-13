@@ -1,0 +1,2 @@
+# sm-mule-domain
+test
