@@ -79,14 +79,6 @@
 		</pluginRepository>
 	</pluginRepositories>
 	
-	<distributionManagement>
-        <!-- Target Anypoint Organization Repository -->
-        <repository>
-            <id>Exchange2</id>
-            <name>Exchange2 Repository</name>
-            <url>https://maven.anypoint.mulesoft.com/api/v1/organizations/bd15e991-e67b-4eb9-9f41-7682ab63b4eb/maven</url>
-            <layout>default</layout>
-        </repository>
-    </distributionManagement>
+	
 
 </project>
